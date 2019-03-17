@@ -11,11 +11,4 @@ Implementation of Java collection hierarchy using Java Programming Language duri
 
 
  
-    
-### Implemented Classes and Methods:
-  - ArrayLisy
-    - append
-    - delete
-  - Stack
-    - append
-    - delete
+
